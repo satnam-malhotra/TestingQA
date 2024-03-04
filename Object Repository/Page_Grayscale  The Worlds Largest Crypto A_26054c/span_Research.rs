@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Research</name>
+   <tag></tag>
+   <elementGuidId>f9466812-6d98-4665-9033-32eab8e58d05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ETFs'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f08e6121-319d-4bab-90c9-3bb437251013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Research</value>
+      <webElementGuid>692a203e-9c9f-48fb-9643-335fe0ec78ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js-focus-visible&quot;]/body[1]/header[@class=&quot;header header--on-dark with-background background--blackberry&quot;]/nav[@class=&quot;global-navigation container global-navigation--on-dark with-background background--blackberry&quot;]/div[@class=&quot;global-navigation__row row&quot;]/div[@class=&quot;col-desktop global-navigation__main&quot;]/ul[@class=&quot;global-navigation__main-items global-navigation__main-accordion&quot;]/li[@class=&quot;global-navigation__main-item accordion__item&quot;]/button[@class=&quot;global-navigation__menu-nav-item global-navigation__menu-trigger accordion__item-trigger&quot;]/span[1]</value>
+      <webElementGuid>6fd7f86a-355b-49b4-bcab-c4b9bf96c251</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ETFs'])[1]/following::span[1]</value>
+      <webElementGuid>c78eafb7-71cd-4e7b-9478-0dcd8509d629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crypto Products'])[1]/following::span[1]</value>
+      <webElementGuid>0bb3a89b-618c-4566-8530-9656d57db984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Market Commentary'])[1]/preceding::span[1]</value>
+      <webElementGuid>75ac3f69-20ee-4445-b6f8-c0d1d9c30d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::span[1]</value>
+      <webElementGuid>6b0a9f65-343f-4376-9def-d1da75523a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Research']/parent::*</value>
+      <webElementGuid>78b46a13-0730-4a53-998e-21a701d6aaf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/button/span</value>
+      <webElementGuid>8b49cb9e-5e76-4f43-9e01-239aed674cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Research' or . = 'Research')]</value>
+      <webElementGuid>5b503894-3c25-4ff6-87f5-ab6dbcdfe995</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

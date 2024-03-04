@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Crypto Products</name>
+   <tag></tag>
+   <elementGuidId>e8b48183-c9d6-47c0-a4af-26420328b83d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='global-navigation__menu-134']/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.global-navigation__level-2-item--link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4329a89d-058a-43f0-b018-970417b06e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/crypto-products</value>
+      <webElementGuid>b7d61ca1-e66f-4a98-86ce-c024b15b7118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>global-navigation__level-2-item--link</value>
+      <webElementGuid>6cc14dc8-0d0d-4863-ba53-21464a77c548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crypto Products</value>
+      <webElementGuid>3e59b098-32a4-4b5e-82f1-a47f32a03aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global-navigation__menu-134&quot;)/div[@class=&quot;global-navigation__level-2-content&quot;]/ul[@class=&quot;global-navigation__level-2-items accordion__item-content&quot;]/li[@class=&quot;global-navigation__level-2-item&quot;]/a[@class=&quot;global-navigation__level-2-item--link&quot;]</value>
+      <webElementGuid>55819236-66be-417b-a15d-55775ba6fdf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='global-navigation__menu-134']/div/ul/li/a</value>
+      <webElementGuid>489bb4b0-e58e-4f31-94ca-dd796d287552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Crypto Products')]</value>
+      <webElementGuid>5d788321-0bbf-4cae-9543-c34a98ef2cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investment Solutions'])[1]/following::a[1]</value>
+      <webElementGuid>37a30eb5-da4f-4b39-929f-9a3b408b93bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investor Login'])[1]/following::a[2]</value>
+      <webElementGuid>eb638f69-4d4d-49e5-b21c-f73c07e21088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ETFs'])[1]/preceding::a[1]</value>
+      <webElementGuid>ed1b1ea0-29bd-4935-b3e2-74bca763feaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Research'])[1]/preceding::a[3]</value>
+      <webElementGuid>700901c9-450c-4ca5-b7fe-eeae9afa6a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crypto Products']/parent::*</value>
+      <webElementGuid>4eba2d50-7131-4653-bebe-c0125a624612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/crypto-products')]</value>
+      <webElementGuid>839e7811-ed5e-4a70-accb-76fcdfe7b3fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/ul/li/a</value>
+      <webElementGuid>b57ab049-d980-407b-adef-353c59299517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/crypto-products' and (text() = 'Crypto Products' or . = 'Crypto Products')]</value>
+      <webElementGuid>be25344e-ef85-435f-8458-b2af60eb0fcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

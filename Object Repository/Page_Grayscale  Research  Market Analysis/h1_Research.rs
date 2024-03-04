@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Research</name>
+   <tag></tag>
+   <elementGuidId>c4b0fc57-2ae4-4b2f-9b94-b4884a6dd474</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Investing'])[2]/following::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.general-masthead__name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>dbad4a9d-b3c0-4162-ab24-434e5f872b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>general-masthead__name</value>
+      <webElementGuid>45185c09-90ff-4ce1-925e-62e5f4ce2047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Research</value>
+      <webElementGuid>7cfde546-ebdb-43e4-98dc-2ebd21fe3a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js-focus-visible&quot;]/body[1]/main[1]/section[@class=&quot;grayscale-section general-masthead with-background background--web&quot;]/div[@class=&quot;general-masthead__content container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-desktop-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-desktop-12&quot;]/h1[@class=&quot;general-masthead__name&quot;]</value>
+      <webElementGuid>8699e52d-66fd-499a-bef0-37399b7dac93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Investing'])[2]/following::h1[1]</value>
+      <webElementGuid>8e3193a4-cc43-4245-893d-e51dff9c4d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investor Login'])[2]/following::h1[1]</value>
+      <webElementGuid>07558d1c-c332-4b57-bb31-9c54e6658e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Emergence of AI and Crypto Synergies'])[1]/preceding::h1[1]</value>
+      <webElementGuid>38bf67a6-7b8e-4088-972f-bd6ccd1bab34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>9968e0ca-dd85-44a5-9c4c-f7a7ead951eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Research' or . = 'Research')]</value>
+      <webElementGuid>9031f0e0-771e-48c8-b6a5-9807dfe847cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

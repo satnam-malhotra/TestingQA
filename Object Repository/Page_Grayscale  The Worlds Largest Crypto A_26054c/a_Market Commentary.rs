@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Market Commentary</name>
+   <tag></tag>
+   <elementGuidId>0863ad9e-cfc6-4f24-b8c1-6ba554d97fe8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='global-navigation__menu-135']/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#global-navigation__menu-135 > div.global-navigation__level-2-content > ul.global-navigation__level-2-items.accordion__item-content > li.global-navigation__level-2-item > a.global-navigation__level-2-item--link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f71b5f60-0421-4874-a093-ac1de32015b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/research#marketcommentary</value>
+      <webElementGuid>a6492565-75ab-4b64-92db-1abeade0c52d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>global-navigation__level-2-item--link</value>
+      <webElementGuid>38fa7aa9-79fd-47ea-ad69-cf92f26e3306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Market Commentary</value>
+      <webElementGuid>431fb808-ee3d-4caf-9f2b-e0f1b26ea290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global-navigation__menu-135&quot;)/div[@class=&quot;global-navigation__level-2-content&quot;]/ul[@class=&quot;global-navigation__level-2-items accordion__item-content&quot;]/li[@class=&quot;global-navigation__level-2-item&quot;]/a[@class=&quot;global-navigation__level-2-item--link&quot;]</value>
+      <webElementGuid>55a6ff8d-d70a-49d3-a942-e879749583de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='global-navigation__menu-135']/div/ul/li/a</value>
+      <webElementGuid>c830edcf-58b8-4a3a-9070-3a90e1f93de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Market Commentary')]</value>
+      <webElementGuid>26bf6200-a34b-420f-b5e0-bb36b045d611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Research'])[1]/following::a[1]</value>
+      <webElementGuid>8b25df74-11ea-4597-b9f3-1e9a338302bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ETFs'])[1]/following::a[2]</value>
+      <webElementGuid>37552605-2c78-4c65-9c5e-354b7fba55f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[1]</value>
+      <webElementGuid>cb354244-ba86-4d68-8a6b-433b950ddcf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Videos &amp; Webinars'])[1]/preceding::a[2]</value>
+      <webElementGuid>2346bb7c-e31a-4c63-b07d-981f043c26ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Market Commentary']/parent::*</value>
+      <webElementGuid>92e9f11b-7716-449c-98c6-ab63242d1ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/research#marketcommentary')]</value>
+      <webElementGuid>d6399b17-6cd5-4dbc-925f-2ae24bf5fd7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/ul/li/a</value>
+      <webElementGuid>e5324a6c-c59e-4646-abac-ed15e4c93484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/research#marketcommentary' and (text() = 'Market Commentary' or . = 'Market Commentary')]</value>
+      <webElementGuid>e1cde6e8-90a2-4738-93fa-0d0f1c09c9e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
